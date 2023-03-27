@@ -2,16 +2,16 @@
 Web application for Movies using react native
 
 PROJECT INVOLVES:
-A home screen page which contains a movies list with name, poster of the movie
+A home screen page which contains a movies list with name, poster of the movie.
 On click of each movie it will navigate to an new screen called Details Screen, where it will show only the details of the movie which we have selected in Home Screen.
 In Details Screen there will be a back Arrow buttton which will navigate to Hoem Screen Page.
 
 Functionalities Used:
-Navigation Functionalities
-API Integration
-SCSS Cascading styles used( Advanced Scss mainly used in now-a-days applications)
-Click or Event Functionalities
-Data transfered from parent component to child component
+Navigation Functionalities,
+API Integration,
+SCSS Cascading styles used( Advanced Scss mainly used in now-a-days applications),
+Click or Event Functionalities,
+Data transfered from parent component to child component.
 
 
 STEPS TO RUN CODE ...............
